@@ -36,7 +36,6 @@ class Index extends BaseController
     public function index(Request $request)
     {
 
-
         
 //        try {
 //            $this->validate([
