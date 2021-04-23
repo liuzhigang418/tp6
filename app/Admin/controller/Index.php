@@ -35,6 +35,9 @@ class Index extends BaseController
     //请求对象操作方法注入
     public function index(Request $request)
     {
+
+
+        
 //        try {
 //            $this->validate([
 //                'name' => 'thinkphp',
